@@ -1,22 +1,32 @@
 <h1 align="center">Hi 👋, I'm ELMEHDI</h1>
 <h3 align="center">I’m a data enthusiast passionate about turning raw information into actionable insights. I focus on designing efficient data pipelines, building predictive models, and developing impactful visualizations that drive better decisions.</h3>
 
-- 🌱 I’m currently learning **data engineering**
-
-- 👨‍💻 All of my projects are available at [not yet](not yet)
-
-- 📫 How to reach me **elkaissounielmehdi@gmail.com**
-
-- 📄 Know about my experiences [not yet](not yet)
-
-- 🤫 My secret **I fight crime at night 🦇 !**
+<h3 align="left">Projects showcase:</h3>
+github.com/ForrestKnight
+https://www.youtube.com/watch?v=lfVVm5K-Xp0
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/elmehdi-elkaissouni-234172264" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="elmehdi-elkaissouni-234172264" height="30" width="40" /></a>
-<a href="https://kaggle.com/elmahdielkaissouni" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="elmahdielkaissouni" height="30" width="40" /></a>
-<a href="https://instagram.com/the_m.kai_999" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="the_m.kai_999" height="30" width="40" /></a>
+<p align="center">
+  <!-- Status badges -->
+  <img src="https://img.shields.io/badge/currently-online-brightgreen?style=for-the-badge&logo=github" alt="Currently Online" />
+  <img src="https://img.shields.io/badge/playing-nothing%20rn-5865F2?style=for-the-badge&logo=playstation&logoColor=white" alt="Playing" />
+  <img src="https://img.shields.io/badge/coding-nothing%20rn-1E90FF?style=for-the-badge&logo=visualstudio&logoColor=white" alt="Coding" />
+  <img src="https://img.shields.io/badge/listening%20to-nothing%20rn-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Listening" />
 </p>
+
+<p align="center">
+  <!-- Social badges -->
+  <a href="https://www.linkedin.com/in/elmehdi-elkaissouni-234172264" target="_blank">
+    <img src="https://img.shields.io/badge/connect-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" />
+  </a>
+  <a href="https://www.kaggle.com/elmahdielkaissouni" target="_blank">
+    <img src="https://img.shields.io/badge/check-Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Check Kaggle Profile" />
+  </a>
+  <a href="https://www.instagram.com/the_m.kai_999" target="_blank">
+    <img src="https://img.shields.io/badge/follow-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Follow on Instagram" />
+  </a>
+</p>
+
 
 <h3 align="left">Languages and Tools:</h3>
 
@@ -26,6 +36,11 @@
   </a>
 </p>
 
+<h3 align="left">Stats:</h3>
+
+need to be modified
+
+github.com/anuraghazra/github-readme-stats  
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mehdikai&show_icons=true&locale=en&layout=compact" alt="mehdikai" /></p>
 

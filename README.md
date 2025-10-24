@@ -1,9 +1,42 @@
 <h1 align="center">Hi 👋, I'm ELMEHDI</h1>
 <h3 align="center">I’m a data enthusiast passionate about turning raw information into actionable insights. I focus on designing efficient data pipelines, building predictive models, and developing impactful visualizations that drive better decisions.</h3>
+<h3 align="left">Main Projects showcase:</h3>
 
-<h3 align="left">Projects showcase:</h3>
-github.com/ForrestKnight
-https://www.youtube.com/watch?v=lfVVm5K-Xp0
+<table>
+  <tr>
+    <td width="33%" align="center" style="padding:10px;">
+      <div style="background-color:#0d1117; border-radius:15px; padding:20px;">
+        <a href="https://github.com/mehdikai/digital-twin-farm">
+          <img src="https://raw.githubusercontent.com/mehdikai/digital-twin-farm/master/preview.png" width="100%" style="border-radius:10px;">
+        </a>
+        <br><br>
+        🌾 <b>Autonomous Farm Digital Twin</b><br>
+        <sub>Smart dashboard simulating real-time environmental and system data.</sub>
+      </div>
+    </td>
+    <td width="33%" align="center" style="padding:10px;">
+      <div style="background-color:#0d1117; border-radius:15px; padding:20px;">
+        <a href="https://github.com/mehdikai/recipe-recommender-ML">
+          <img src="https://raw.githubusercontent.com/mehdikai/recipe-recommender-ML/main/picture%202.png" width="100%" style="border-radius:10px;">
+        </a>
+        <br><br>
+        🍽️ <b>Recipe Recommendation System</b><br>
+        <sub>ML-based web app suggesting similar recipes using ingredient similarity.</sub>
+      </div>
+    </td>
+    <td width="33%" align="center" style="padding:10px;">
+      <div style="background-color:#0d1117; border-radius:15px; padding:20px;">
+        <a href="https://github.com/mehdikai/chatbot">
+          <img src="https://raw.githubusercontent.com/mehdikai/chatbot/main/Picture1.png" width="100%" style="border-radius:10px;">
+        </a>
+        <br><br>
+        💬 <b>AI Chatbot</b><br>
+        <sub>NLP-powered assistant built to answer general knowledge queries.</sub>
+      </div>
+    </td>
+  </tr>
+</table>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="center">

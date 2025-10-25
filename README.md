@@ -39,13 +39,6 @@
 
 
 <h3 align="left">Connect with me:</h3>
-<p align="center">
-  <!-- Status badges -->
-  <img src="https://img.shields.io/badge/currently-online-green" alt="Currently Online" />
-  <img src="https://img.shields.io/badge/playing-nothing-blue" alt="Playing" />
-  <img src="https://img.shields.io/badge/coding-nothing%20rn-1E90FF" alt="Coding" />
-  <img src="https://img.shields.io/badge/listening%20to-nothing%20rn-spotify" alt="Listening" />
-</p>
 
 <p align="center">
   <!-- Social badges -->
@@ -60,6 +53,13 @@
   </a>
 </p>
 
+<p align="center">
+  <!-- Status badges -->
+  <img src="https://img.shields.io/badge/currently-online-green" alt="Currently Online" />
+  <img src="https://img.shields.io/badge/playing-nothing-blue" alt="Playing" />
+  <img src="https://img.shields.io/badge/coding-nothing%20rn-1E90FF" alt="Coding" />
+  <img src="https://img.shields.io/badge/listening%20to-nothing%20rn-spotify" alt="Listening" />
+</p>
 
 <h3 align="left">Languages and Tools:</h3>
 

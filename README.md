@@ -1,15 +1,21 @@
-<h1 align="center">Hi 👋, I'm ELMEHDI</h1>
-<h3 align="center">I’m a data enthusiast passionate about turning raw information into actionable insights. I focus on designing efficient data pipelines, building predictive models, and developing impactful visualizations that drive better decisions.</h3>
-<h3 align="left">Main Projects showcase:</h3>
+<h2 align="center">Hi 👋, I'm ELMEHDI</h2>
+<h4 align="center">I’m a data enthusiast passionate about turning raw information into actionable insights. I focus on designing efficient data pipelines, building predictive models, and developing impactful visualizations that drive better decisions.</h4>
 
 
+<h2 align="center">Main Projects showcase:</h2>
 
-<h3 align="left">Connect with me:</h3>
+
+| | | |
+|:--:|:--:|:--:|
+| [![Digital Twin Farm](https://raw.githubusercontent.com/mehdikai/mehdikai/main/assets/Picture1.png)](https://github.com/mehdikai/digital-twin-farm) | [![Recipe Recommender](https://raw.githubusercontent.com/mehdikai/mehdikai/main/assets/Picture2.png)](https://github.com/mehdikai/recipe-recommender-ML) | [![AI Chatbot](https://raw.githubusercontent.com/mehdikai/mehdikai/main/assets/Picture3.png)](https://github.com/mehdikai/chatbot) |
+
+
+<h2 align="center">Connect with me:</h2>
 
 <p align="center">
   <!-- Social badges -->
   <a href="https://www.linkedin.com/in/elmehdi-elkaissouni-234172264" target="_blank">
-    <img src="https://img.shields.io/badge/connect-LinkedIn-0077B5" alt="Connect on LinkedIn" />
+    <img src="https://img.shields.io/badge/connect-LinkedIn-0077B5" alt="Connect on LinkedIn"/>
   </a>
   <a href="https://www.kaggle.com/elmahdielkaissouni" target="_blank">
     <img src="https://img.shields.io/badge/check-Kaggle-20BEFF" alt="Check Kaggle Profile" />
@@ -27,7 +33,7 @@
   <img src="https://img.shields.io/badge/listening%20to-nothing%20rn-spotify" alt="Listening" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h2 align="center">Languages and Tools:</h2>
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -35,16 +41,12 @@
   </a>
 </p>
 
-<h3 align="left">Stats:</h3>
+<h2 align="center">Stats:</h2>
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mehdikai&show_icons=true&theme=radical" alt="mehdikai" /></p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mehdikai&show_icons=true&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mehdikai&show_icons=true&theme=radical" alt="GitHub Stats" />
+</div>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mehdikai&show_icons=true&theme=radical" alt="mehdikai" /></p>
-
-
-
-what's next :
-increase the size of the shields
-make the titles uniform in the size with the line under 

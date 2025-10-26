@@ -50,3 +50,17 @@
   <img src="https://github-readme-stats.vercel.app/api?username=mehdikai&show_icons=true&theme=radical" alt="GitHub Stats" />
 </div>
 
+<h2>to add :</h2>
+
+contribution snake
+
+bento profile with a gif on it's side
+
+contribution graph
+
+quotes (look for one related to data engineering science)
+https://github.com/PiyushSuthar/github-readme-quotes
+
+spotify api to show what i'm playing then remove the one from before
+
+lot from kenan

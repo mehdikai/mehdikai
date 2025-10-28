@@ -1,5 +1,34 @@
-<h2 align="center">Hi 👋, I'm ELMEHDI</h2>
-<h4 align="center">I’m a data enthusiast passionate about turning raw information into actionable insights. I focus on designing efficient data pipelines, building predictive models, and developing impactful visualizations that drive better decisions.</h4>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=header" width="100%">
+
+<div align="center">
+  <a href="https://bento.me/elmehdi-elkaissouni">
+    <img width="100%" src="https://cardivo.vercel.app/api?name=Elmehdi%20Elkaissouni&description=passionate%20about%20turning%20raw%20information%20into%20actionable%20insights.%20I%20focus%20on%20designing%20efficient%20data%20pipelines,%20building%20predictive%20models,%20and%20developing%20impactful%20visualizations%20that%20drive%20better%20decisions.&image=https%3A%2F%2Fdrive.google.com%2Fuc%3Fexport%3Dview%26id%3D1hyV7-KzqCpHLPw5_nzvl6ybEjiMO9OuN&backgroundColor=%23ecf0f1&colorPattern=%23eaeaea&youtube=knightgamer87&instagram=the_m.kai_999&linkedin=elmehdi-elkaissouni-234172264&github=mehdikain" alt="Kenan Gain's Card" />
+
+
+  </a>
+</div>
+
+
+<h1 align="center">Hello &nbsp;<a href="https://avipatilweb.ml/"><img src="https://github.com/KenanGain/KenanGain/blob/main/icons/wave.gif" width="48"></a> , I'm Elmehdi Elkaissouni</h1>
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=9400D3&center=true&vCenter=true&width=435&lines=Data+Engineer;Data+Scientist;Full-Stack+Developer;AI+Engineer" alt="Typing SVG" />
+
+</p>
+
+
+<div align="center">
+<div align="center">
+  <h2>🌐 Connect with Me</h2>
+  <p>Discover my work and connect on these platforms!</p>
+
+ | YouTube | Instagram | LinkedIn |
+| --- | --- | --- |
+| [![elmehdi-elkaissouni](https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.youtube.com%2F%40KnightGamer87&subtitle=@knightgamer87&size=square)](https://www.youtube.com/@KnightGamer87) | [![elmehdi-elkaissouni](https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.instagram.com%the_m.kai_999%2F&subtitle=@the_m.kai_999&size=square)](https://www.instagram.com/the_m.kai_999/) | [![elmehdi-elkaissouni](https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Felmehdi-elkaissouni-234172264%2F&subtitle=@elmehdi+elkaissouni&size=square)](https://www.linkedin.com/in/elmehdi-elkaissouni-234172264/) |
+| Reddit | Discord | GitHub |
+| --- | --- | --- |
+[![Dear-Committee-7621](https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.reddit.com%2Fuser%2FDear-Committee-7621&subtitle=r/Dear-Committee-7621&size=square)](https://www.reddit.com/user/Dear-Committee-7621) | [![Knight Gamer](https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fdiscord.gg%2FYdDyV6QqEN&subtitle=Knight+Gamer&size=square)](https://discord.gg/YdDyV6QqEN) | [![mehdikai](https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fgithub.com%2Fmehdikai&subtitle=%2Fmehdikai&size=square)](https://github.com/mehdikai) |
+
 
 
 <h2 align="center">Main Projects showcase:</h2>

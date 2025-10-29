@@ -30,6 +30,11 @@
 [![Dear-Committee-7621](https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.reddit.com%2Fuser%2FDear-Committee-7621&subtitle=r/Dear-Committee-7621&size=square)](https://www.reddit.com/user/Dear-Committee-7621) | [![Elmehdi_Elk](https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fx.com%2FElmehdi_Elk&subtitle=@Elmehdi_Elk&size=square)](https://x.com/Elmehdi_Elk) | [![mehdikai](https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fgithub.com%2Fmehdikai&subtitle=%2Fmehdikai&size=square)](https://github.com/mehdikai) |
 
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mehdikai&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views" width="200" height="35">
+</p>
+
+
 
 <h2 align="center">Main Projects showcase:</h2>
 

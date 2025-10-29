@@ -125,6 +125,16 @@
 </a>
 
 
+<h2>
+<div align="center">
+  
+⭐️ From [mehdikai](https://github.com/KenanGain) | Let's innovate together! <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="60px" height="30px">
+
+
+</div>
+</h3>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
 
 <h2>to add :</h2>
 

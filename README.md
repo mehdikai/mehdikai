@@ -130,10 +130,6 @@
 
 contribution snake
 
-bento profile with a gif on it's side
-
-contribution graph
-
 quotes (look for one related to data engineering science)
 https://github.com/PiyushSuthar/github-readme-quotes
 

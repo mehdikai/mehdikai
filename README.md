@@ -31,6 +31,17 @@
 
 
 <p align="center">
+  <!-- Status badges with icons -->
+  <a href="https://www.kaggle.com/elmahdielkaissouni" target="_blank">
+    <img src="https://img.shields.io/badge/check-Kaggle-20BEFF?logo=kaggle" alt="Check Kaggle Profile" />
+  </a>
+  <img src="https://img.shields.io/badge/currently-online-green?logo=circle" alt="Currently Online" />
+  <img src="https://img.shields.io/badge/playing-nothing-blue?logo=steam" alt="Playing" />
+  <img src="https://img.shields.io/badge/coding-nothing%20rn-1E90FF?logo=python" alt="Coding" />
+  <img src="https://img.shields.io/badge/listening%20to-nothing%20rn-1DB954?logo=spotify" alt="Listening" />
+</p>
+
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=mehdikai&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views" width="200" height="35">
 </p>
 
@@ -43,29 +54,6 @@
 |:--:|:--:|:--:|
 | [![Digital Twin Farm](https://raw.githubusercontent.com/mehdikai/mehdikai/main/assets/Picture1.png)](https://github.com/mehdikai/digital-twin-farm) | [![Recipe Recommender](https://raw.githubusercontent.com/mehdikai/mehdikai/main/assets/Picture2.png)](https://github.com/mehdikai/recipe-recommender-ML) | [![AI Chatbot](https://raw.githubusercontent.com/mehdikai/mehdikai/main/assets/Picture3.png)](https://github.com/mehdikai/chatbot) |
 
-
-<h2 align="center">Connect with me:</h2>
-
-<p align="center">
-  <!-- Social badges -->
-  <a href="https://www.linkedin.com/in/elmehdi-elkaissouni-234172264" target="_blank">
-    <img src="https://img.shields.io/badge/connect-LinkedIn-0077B5" alt="Connect on LinkedIn"/>
-  </a>
-  <a href="https://www.kaggle.com/elmahdielkaissouni" target="_blank">
-    <img src="https://img.shields.io/badge/check-Kaggle-20BEFF" alt="Check Kaggle Profile" />
-  </a>
-  <a href="https://www.instagram.com/the_m.kai_999" target="_blank">
-    <img src="https://img.shields.io/badge/follow-Instagram-E4405F" alt="Follow on Instagram" />
-  </a>
-</p>
-
-<p align="center">
-  <!-- Status badges -->
-  <img src="https://img.shields.io/badge/currently-online-green" alt="Currently Online" />
-  <img src="https://img.shields.io/badge/playing-nothing-blue" alt="Playing" />
-  <img src="https://img.shields.io/badge/coding-nothing%20rn-1E90FF" alt="Coding" />
-  <img src="https://img.shields.io/badge/listening%20to-nothing%20rn-spotify" alt="Listening" />
-</p>
 
 <h2 align="center">Languages and Tools:</h2>
 

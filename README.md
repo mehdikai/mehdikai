@@ -19,18 +19,7 @@
 
 <div align="center">
 <div align="center">
-  <h2>🌐 Connect with Me</h2>
-  <p>Discover my work and connect on these platforms!</p>
 
- | YouTube | Instagram | LinkedIn |
-| --- | --- | --- |
-| [![elmehdi-elkaissouni](https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.youtube.com%2F%40ELKAISSOUNI_ELMEHDI&subtitle=@ELKAISSOUNI_ELMEHDI&size=square)](https://www.youtube.com/@ELKAISSOUNI_ELMEHDI) | [![elmehdi-elkaissouni](https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.instagram.com%the_m.kai_999%2F&subtitle=@the_m.kai_999&size=square)](https://www.instagram.com/the_m.kai_999/) | [![elmehdi-elkaissouni](https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Felmehdi-elkaissouni-234172264%2F&subtitle=@elmehdi+elkaissouni&size=square)](https://www.linkedin.com/in/elmehdi-elkaissouni-234172264/) |
-| Reddit | X | GitHub |
-| --- | --- | --- |
-[![Dear-Committee-7621](https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.reddit.com%2Fuser%2FDear-Committee-7621&subtitle=r/Dear-Committee-7621&size=square)](https://www.reddit.com/user/Dear-Committee-7621) | [![Elmehdi_Elk](https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fx.com%2FElmehdi_Elk&subtitle=@Elmehdi_Elk&size=square)](https://x.com/Elmehdi_Elk) | [![mehdikai](https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fgithub.com%2Fmehdikai&subtitle=%2Fmehdikai&size=square)](https://github.com/mehdikai) |
-
-
-<p align="center">
   <!-- Status badges with icons -->
   <a href="https://www.kaggle.com/elmahdielkaissouni" target="_blank">
     <img src="https://img.shields.io/badge/check-Kaggle-20BEFF?logo=kaggle" alt="Check Kaggle Profile" />
